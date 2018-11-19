@@ -1,0 +1,19 @@
+{
+  "name": "gerapp",
+  "version": "1.0.0",
+  "description": "App de Gera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gera",
+    "app"
+  ],
+  "author": "Gera",
+  "license": "ISC",
+  "dependencies": {
+    "beepbeep": "^1.2.2",
+    "cows": "^2.1.0"
+  }
+}
